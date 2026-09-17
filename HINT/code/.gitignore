@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.ckpt
+*.pth
+wandb/
+output/
+.DS_Store
